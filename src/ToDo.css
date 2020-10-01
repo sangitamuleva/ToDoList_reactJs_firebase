@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+#todo1 {
+    font-family: 'Indie Flower', cursive !important;
+}
+#edit:hover{
+    height: 25px;
+    width: 25px;
+    padding-right: 3px;
+  }
+#delete:hover{
+    height: 25px;
+    width: 25px;
+    padding-left: 3px;
+  }
